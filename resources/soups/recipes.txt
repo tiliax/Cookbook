@@ -96,3 +96,13 @@ PUMPKIN CREAMY SOUP INGREDIENTS
 1 cup light cream
 ¼ cup grated Parmesan cheese
 2 teaspoons hot sauce
+
+
+broccoliSoup.jpeg
+cheddarSoup.avif
+cheddarSoup2.jpeg
+creamySoup1.avif
+creamySoup2.jpeg
+recipes.txt
+tomatoSoup.avif
+tomatoSoup2.avif
